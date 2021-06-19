@@ -57,5 +57,5 @@
     "nome": "Blue Exorcist",
     "sinopse": "Determinado a se livrar da maldição de ser filho ilegítimo de Satã, Rin segue os passos de seu mentor e se alista na Academia Vera Cruz para se tornar exorcista.",
     "imagem": "./img/blueexorcist.jpg"
-    },
+    }
 ]
