@@ -57,5 +57,17 @@
     "nome": "Blue Exorcist",
     "sinopse": "Determinado a se livrar da maldição de ser filho ilegítimo de Satã, Rin segue os passos de seu mentor e se alista na Academia Vera Cruz para se tornar exorcista.",
     "imagem": "img/blueexorcist.jpg"
+    },
+
+    {"id": 11,
+    "nome": "No Game No Life: Zero",
+    "sinopse": "Um jovem guerreiro faz amizade com uma ex-machina e embarca numa missão angustiante para acabar com uma guerra e salvar a humanidade da extinção.",
+    "imagem": "img/nogamenolife.jpg"
+    },
+
+    {"id": 12,
+    "nome": "Akame Ga Kill!",
+    "sinopse": "Tatsumi parte em uma jornada para ajudar sua pobre aldeia. Ao ser resgatado por um bando de assassinos, ele se junta à luta deles contra o governo corrupto.",
+    "imagem": "img/akamegakill.jpg"
     }
 ]
